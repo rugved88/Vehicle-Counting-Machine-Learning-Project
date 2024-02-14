@@ -46,9 +46,6 @@ The project includes functionality to visualize the original images along with t
 - **Mean Absolute Error (MAE):**  7.8346📉
 - **Loss:** 121.1611  📊
 
-### Confusion Matrix
-_Add confusion matrix here or describe how it can be generated/viewed._ 🧩
-
 ### Training and Validation Loss Graphs
 _Add training and validation loss graphs here._ 📉📈
 
