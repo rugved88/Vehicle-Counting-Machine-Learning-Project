@@ -48,6 +48,9 @@ The project includes functionality to visualize the original images along with t
 
 ### Training and Validation Loss Graphs
 _Add training and validation loss graphs here._ 📉📈
+<img src="images/17.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ### Model Results After Quantization and Pruning
 _Describe or show the results after applying quantization and pruning to the model._ ✂️🔍
