@@ -61,6 +61,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 - Thanks to the creators of the TRANCOS dataset for providing a rich dataset for vehicle counting research. 🎉
 - This project was inspired by the need for accurate vehicle counting in traffic management systems. 🚗🚦
-Acknowledgments
-Thanks to the creators of the TRANCOS dataset for providing a rich dataset for vehicle counting research.
-This project was inspired by the need for accurate vehicle counting in traffic management systems.
