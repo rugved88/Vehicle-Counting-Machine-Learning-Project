@@ -26,6 +26,10 @@ The TRANCOS dataset is used for training and evaluating the model. It needs to b
 - 📥 Download the TRANCOS dataset from [the official website](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/).
 - 📁 Ensure the dataset is located at `C:/Users/<YourUsername>/Desktop/UVA-Course/machine learning/dataset/TRANCOS_v3`.
 
+  <img src="images/17.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ## 🚀 Usage
 1. 📋 Clone the repository to your local machine.
 2. 🗃️ Ensure the dataset is placed in the correct directory as mentioned above.
@@ -48,7 +52,7 @@ The project includes functionality to visualize the original images along with t
 
 ### Training and Validation Loss Graphs
 _Add training and validation loss graphs here._ 📉📈
-<img src="images/17.png"
+<img src="images/18.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
